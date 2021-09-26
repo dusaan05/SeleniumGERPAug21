@@ -2,7 +2,7 @@ package week1.day1;
 
 public class Bus 
 {
-	
+	//This is the first Java
 	// Global Variables
 	//accessSpecifier dataType variableName = Value;
 //	public int speed = 180;
